@@ -7,6 +7,9 @@ molecool
 
 molssi workshop: A python package for analyzing and visualizing xyz file.
 
+
+Modifying README just for a commit in master
+
 ### Copyright
 
 Copyright (c) 2020, pavanbehara
