@@ -16,3 +16,11 @@ Copyright (c) 2020, pavanbehara
  
 Project based on the 
 [Computational Molecular Science Python Cookiecutter](https://github.com/molssi/cookiecutter-cms) version 1.1.
+
+
+#Making changes ....
+This repository is currently under development. To do a developmental install, download this repository and type
+
+`pip install -e .`
+
+in the repository directory.
