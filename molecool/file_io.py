@@ -1,5 +1,5 @@
 """
-functions.py
+file_io.py
 molssi workshop: A python package for analyzing and visualizing xyz file.
 
 Handles the file inputs and outputs to disk

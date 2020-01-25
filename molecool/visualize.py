@@ -1,5 +1,5 @@
 """
-functions.py
+visualize.py
 molssi workshop: A python package for analyzing and visualizing xyz file.
 
 Handles the drawing and visualization 
@@ -45,7 +45,7 @@ def draw_molecule(coordinates, symbols, draw_bonds=None, save_location=None, dpi
     return ax
 
 
-def bond_histogram(bond_list, save_location=None, dpi=300, graph_min=0, graph_max=2):
+def draw_bond_histogram(bond_list, save_location=None, dpi=300, graph_min=0, graph_max=2):
     # Draw a histogram of bond lengths based on a bond_list (output from build_bond_list function)
     
     

@@ -1,5 +1,5 @@
 """
-functions.py
+atom_data.py
 molssi workshop: A python package for analyzing and visualizing xyz file.
 
 Handles the atom specific data, weights and colors
