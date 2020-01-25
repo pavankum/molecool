@@ -17,14 +17,14 @@ def open_pdb(file_location):
 		
 	Returns
 	-------
-	symbols: string
+	symbols: list
 		atomic symbols
 	coordinates: np.ndarray
 		atomic [x, y, z] coordinates
 		
 	Examples
 	--------
-	>>> open_pdb(oxygen.pdb)
+	>>> molecool.io.open_pdb(oxygen.pdb)
 	O 0.0 0.0 0.0
 	
 	"""
