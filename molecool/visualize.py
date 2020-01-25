@@ -4,12 +4,14 @@ molssi workshop: A python package for analyzing and visualizing xyz file.
 
 Handles the drawing and visualization 
 """
-import os
+
 import numpy as np
 import matplotlib.pyplot as plt
 
 from mpl_toolkits.mplot3d import Axes3D
 
+from  .atom_data import atom_colors
+# this is a relative import, importing from the same package start with dot and then the filename
 
 def draw_molecule(coordinates, symbols, draw_bonds=None, save_location=None, dpi=300):
     

@@ -4,11 +4,6 @@ molssi workshop: A python package for analyzing and visualizing xyz file.
 
 Handles the calculations like bonds and angles
 """
-import os
-import numpy as np
-import matplotlib.pyplot as plt
-
-from mpl_toolkits.mplot3d import Axes3D
 
 def build_bond_list(coordinates, max_bond=1.5, min_bond=0):
     

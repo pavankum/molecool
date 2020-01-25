@@ -4,11 +4,8 @@ molssi workshop: A python package for analyzing and visualizing xyz file.
 
 Handles the calculations like bonds and angles
 """
-import os
-import numpy as np
-import matplotlib.pyplot as plt
 
-from mpl_toolkits.mplot3d import Axes3D
+import numpy as np
 
 def calculate_distance(rA, rB):
     # This function calculates the distance between two points given as numpy arrays.
