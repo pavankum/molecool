@@ -5,6 +5,9 @@
 
 Welcome to molecool's documentation!
 =========================================================
+molecool is a python package for geometry analysis and visualization.
+
+The file formats supported are 'xyz' and 'pdb'.
 
 .. toctree::
    :maxdepth: 2
@@ -12,6 +15,7 @@ Welcome to molecool's documentation!
 
    getting_started
    api
+   about
 
 
 
