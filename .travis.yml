@@ -45,7 +45,7 @@ script:
   - pytest -v --cov=molecool molecool/tests/
 
 notifications:
-    email: false
+    email: pavankum@buffalo.edu
 
 after_success:
   - codecov

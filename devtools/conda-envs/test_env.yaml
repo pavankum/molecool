@@ -4,6 +4,11 @@ dependencies:
     # Base depends
   - python
   - pip
+  
+    # dependencies
+  - numpy
+  - matplotlib
+  
 
     # Testing
   - pytest
