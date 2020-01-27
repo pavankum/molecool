@@ -14,8 +14,8 @@ The file formats supported are 'xyz' and 'pdb'.
    :caption: Contents:
 
    getting_started
-   api
    about
+   api
 
 
 
