@@ -8,8 +8,6 @@ Handles the drawing and visualization
 import numpy as np
 import matplotlib.pyplot as plt
 
-from mpl_toolkits.mplot3d import Axes3D
-
 from  .atom_data import atom_colors
 # this is a relative import, importing from the same package start with dot and then the filename
 

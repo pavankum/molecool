@@ -4,7 +4,7 @@ molssi workshop: A python package for analyzing and visualizing xyz file.
 """
 
 # Add imports here
-from .functions import *
+
 from .measure import calculate_angle, calculate_distance, calculate_molecular_mass, calculate_center_of_mass
 from .visualize import draw_molecule, draw_bond_histogram
 from .molecule import build_bond_list
